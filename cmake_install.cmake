@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Sony/Desktop/Example
+# Install script for directory: /Users/Sony/Desktop/IP/EC601
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Sony/Desktop/Example/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Sony/Desktop/IP/EC601/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

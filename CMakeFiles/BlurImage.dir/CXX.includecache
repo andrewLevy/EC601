@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/Sony/Desktop/Example/BlurImage.cpp
+/Users/Sony/Desktop/IP/EC601/BlurImage.cpp
 opencv2/imgproc/imgproc.hpp
-/Users/Sony/Desktop/Example/opencv2/imgproc/imgproc.hpp
+/Users/Sony/Desktop/IP/EC601/opencv2/imgproc/imgproc.hpp
 opencv2/highgui/highgui.hpp
-/Users/Sony/Desktop/Example/opencv2/highgui/highgui.hpp
+/Users/Sony/Desktop/IP/EC601/opencv2/highgui/highgui.hpp
 
 /usr/local/include/opencv/cxcore.h
 opencv2/core/core_c.h

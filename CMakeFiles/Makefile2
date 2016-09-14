@@ -54,10 +54,10 @@ RM = /Applications/CMake.app/Contents/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Sony/Desktop/Example
+CMAKE_SOURCE_DIR = /Users/Sony/Desktop/IP/EC601
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Sony/Desktop/Example
+CMAKE_BINARY_DIR = /Users/Sony/Desktop/IP/EC601
 
 #=============================================================================
 # Target rules for target CMakeFiles/BlurImage.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /Users/Sony/Desktop/Example
 CMakeFiles/BlurImage.dir/all:
 	$(MAKE) -f CMakeFiles/BlurImage.dir/build.make CMakeFiles/BlurImage.dir/depend
 	$(MAKE) -f CMakeFiles/BlurImage.dir/build.make CMakeFiles/BlurImage.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Sony/Desktop/Example/CMakeFiles --progress-num=1,2 "Built target BlurImage"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Sony/Desktop/IP/EC601/CMakeFiles --progress-num=1,2 "Built target BlurImage"
 .PHONY : CMakeFiles/BlurImage.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/BlurImage.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/BlurImage.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Sony/Desktop/Example/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Sony/Desktop/IP/EC601/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BlurImage.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Sony/Desktop/Example/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Sony/Desktop/IP/EC601/CMakeFiles 0
 .PHONY : CMakeFiles/BlurImage.dir/rule
 
 # Convenience name for target.

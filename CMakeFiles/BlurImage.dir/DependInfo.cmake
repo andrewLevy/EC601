@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Sony/Desktop/Example/BlurImage.cpp" "/Users/Sony/Desktop/Example/CMakeFiles/BlurImage.dir/BlurImage.cpp.o"
+  "/Users/Sony/Desktop/IP/EC601/BlurImage.cpp" "/Users/Sony/Desktop/IP/EC601/CMakeFiles/BlurImage.dir/BlurImage.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
