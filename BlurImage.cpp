@@ -1,4 +1,4 @@
-// EC 601 HW 1 by Yue Sun and Andrew Levy
+// EC 601 HW 1 by Yue Sun (U96951208) and Andrew Levy (U78294109)
 // The purpose of the below OpenCV program is to blur an input image.  The program uses two OpenCV libraries: 
 // (i) improc.hpp
 // (ii) highgui.hpp
