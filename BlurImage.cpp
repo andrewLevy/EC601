@@ -1,4 +1,7 @@
-// The below program blurs an input image.
+// EC 601 HW 1 by Yue Sun and Andrew Levy
+// The purpose of the below OpenCV program is to blur an input image.  The program uses two OpenCV libraries: 
+// (i) improc.hpp
+// (ii) highgui.hpp
 
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/highgui/highgui.hpp"
