@@ -1,3 +1,5 @@
+// The below program blurs an input image.
+
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/highgui/highgui.hpp"
 
