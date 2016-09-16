@@ -12,16 +12,16 @@ int main( int argc, char** argv )
 {
     /// Load the source image
     src = imread( argv[1], 1 );
-    
+
     namedWindow( window_name1, WINDOW_AUTOSIZE );
     imshow("Unprocessed Image",src);
-    
+
     dst = src.clone();
-    GaussianBlur( src, dst, Size( 15, 15 ), 1, 1 );
-    
+    GaussianBlur( src, dst, Size( 15, 15 ), 50, 50 );
+
     namedWindow( window_name2, WINDOW_AUTOSIZE );
     imshow("Processed Image",dst);
-    
+
     waitKey();
     return 0;
 }
